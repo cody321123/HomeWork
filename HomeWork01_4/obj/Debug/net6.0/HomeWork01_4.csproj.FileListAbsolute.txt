@@ -1,0 +1,15 @@
+C:\Users\Солнце\Desktop\Codyplz\homework\HomeWork01_4\bin\Debug\net6.0\HomeWork01_4.exe
+C:\Users\Солнце\Desktop\Codyplz\homework\HomeWork01_4\bin\Debug\net6.0\HomeWork01_4.deps.json
+C:\Users\Солнце\Desktop\Codyplz\homework\HomeWork01_4\bin\Debug\net6.0\HomeWork01_4.runtimeconfig.json
+C:\Users\Солнце\Desktop\Codyplz\homework\HomeWork01_4\bin\Debug\net6.0\HomeWork01_4.dll
+C:\Users\Солнце\Desktop\Codyplz\homework\HomeWork01_4\bin\Debug\net6.0\HomeWork01_4.pdb
+C:\Users\Солнце\Desktop\Codyplz\homework\HomeWork01_4\obj\Debug\net6.0\HomeWork01_4.csproj.AssemblyReference.cache
+C:\Users\Солнце\Desktop\Codyplz\homework\HomeWork01_4\obj\Debug\net6.0\HomeWork01_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Солнце\Desktop\Codyplz\homework\HomeWork01_4\obj\Debug\net6.0\HomeWork01_4.AssemblyInfoInputs.cache
+C:\Users\Солнце\Desktop\Codyplz\homework\HomeWork01_4\obj\Debug\net6.0\HomeWork01_4.AssemblyInfo.cs
+C:\Users\Солнце\Desktop\Codyplz\homework\HomeWork01_4\obj\Debug\net6.0\HomeWork01_4.csproj.CoreCompileInputs.cache
+C:\Users\Солнце\Desktop\Codyplz\homework\HomeWork01_4\obj\Debug\net6.0\HomeWork01_4.dll
+C:\Users\Солнце\Desktop\Codyplz\homework\HomeWork01_4\obj\Debug\net6.0\refint\HomeWork01_4.dll
+C:\Users\Солнце\Desktop\Codyplz\homework\HomeWork01_4\obj\Debug\net6.0\HomeWork01_4.pdb
+C:\Users\Солнце\Desktop\Codyplz\homework\HomeWork01_4\obj\Debug\net6.0\HomeWork01_4.genruntimeconfig.cache
+C:\Users\Солнце\Desktop\Codyplz\homework\HomeWork01_4\obj\Debug\net6.0\ref\HomeWork01_4.dll
